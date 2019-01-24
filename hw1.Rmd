@@ -1,0 +1,26 @@
+---
+title: 'Homework #1'
+author: "Ritika Agrawal; ritz1710"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+According to me, **data science** is one of the most required fields in today's world. Not just as a department, but it is necessary in each and every industry. I am currently a sophomore in Advertising. Huge ad agencies develop campaigns based on the information collected. This information is data. Data helps creative thinkers take the right decision so that they can create the perfect strategic plan in order to execute an advertisement which is best for the target audience. An example that comes to mind is _How Target Knew She was pregnant_. Target tracked red card holders and their purchases. Women that purchased broad spectrum pills and then a large purse were expecting a baby in 7 months. This made them send flyers and baby advertisements to their homes and eventually got a larger baby market.
+
+[Sale: Shop Target's Baby Sale!](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj6qZeRjv7fAhXHooMKHe4uAaEQjRx6BAgBEAU&url=https%3A%2F%2Fcommunity.babycenter.com%2Fpost%2Fa47327899%2Fsale_shop_targets_baby_sale&psig=AOvVaw1eik56oSuxYk0Z4AXOqJvb&ust=1548133841859649)
+
+![Sale: Shope Target's Baby Sale!](https://imageserve.babycenter.com/8/000/222/9QjIOTWZpm68ew34jUIV9SZG5gaH30Zg_lg.jpg)
+
+```{r}
+version
+```
+5. Version of git:
+git --version
+git version 2.20.1.windows.1
+
+7. GitHub account username- ritz1710
